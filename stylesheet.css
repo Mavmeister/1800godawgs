@@ -1,4 +1,9 @@
 .main {
   text-align: center;
-  font-size: 100px;
+  font-size: 75px;
+  background-color: purple;
+}
+
+.hba {
+  color: gold;
 }
